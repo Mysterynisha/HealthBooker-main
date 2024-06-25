@@ -4,9 +4,9 @@
   "description": "Doctor appointment website",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
-  "author": "Avinash905",
+  "author": "Nisha",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
